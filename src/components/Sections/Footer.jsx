@@ -63,6 +63,7 @@ padding: 1.5rem;
 @media (max-width: 600px) {
     flex-direction: column;
     align-items: flex-start;
+        font-size: 9px;
   }
 
   .contact-info {
